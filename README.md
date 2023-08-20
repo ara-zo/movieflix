@@ -36,12 +36,3 @@
 > Notes.
 영화 데이터베이스에서 이미지를 표시할 때는 https://image.tmdb.org/t/p/w500/ + 이미지 경로와 같은 URL을 사용해야 합니다.
 예를 들어 이미지 경로가 "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"인 경우 전체 URL은 https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg 입니다.
-
----
-## 제출방법
-시뮬레이터에서 실행 중인 앱의 화면을 녹화하여 여기에 업로드하세요: https://imgur.com/upload
-업로드 후 생성된 링크 (예시: https://imgur.com/a/...)를 제출하세요.
-- iOS 시뮬레이터에서 화면을 녹화하는 방법
-- Android 시뮬레이터에서 화면을 녹화하는 방법
-- 제출기간: 월요일 오전 6시까지
-- 차주부터는 틱톡 클론이 시작됩니다!
