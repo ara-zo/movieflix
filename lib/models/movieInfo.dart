@@ -8,6 +8,10 @@ class MovieInfo {
 
   final List<Map<String, dynamic>> genres;
 
+  final double vote_average;
+
+  final int runtime;
+
   MovieInfo({
     required this.homepage,
     required this.overview,
@@ -15,6 +19,8 @@ class MovieInfo {
     required this.release_date,
     required this.title,
     required this.genres,
+    required this.vote_average,
+    required this.runtime,
   });
 
   factory MovieInfo.fromJson(Map<String, dynamic> json) =>
