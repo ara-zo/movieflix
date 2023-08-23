@@ -46,6 +46,8 @@ class movieWidget extends StatelessWidget {
           const SizedBox(height: 8),
           Text(
             title,
+            maxLines: 2,
+            overflow: TextOverflow.ellipsis,
             style: const TextStyle(
               fontSize: 15,
             ),
